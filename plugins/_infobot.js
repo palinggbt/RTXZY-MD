@@ -8,7 +8,6 @@ const sections = [ {
 	rows: [
 	   {title: `Speed`, rowId: `#speed `},//, description: ``},
         {title: `Speedtest`, rowId: `#speedtest `},//, description: ``},
-        {title: `Script`, rowId: `#sc `},//, description: ``},
          {title: `Thanks`, rowId: `#tqto `},//, description: ``},
          {title: `Group Official`, rowId: `#gcbot `},//, description: ``},
          {title: `Website Official`, rowId: `#web `},//, description: ``},
