@@ -58,7 +58,7 @@ const defaultMenu = {
 │ • Prefix Used : *[ %p ]*
 │ • Database : %rtotalreg dari %totalreg 
 │ • Memory Used : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
-│ • Free Apikey : bit.ly/freeapikey
+│ • botwa.mengvirtual.my.id
 ╰────
 ╭─ 「 *USER INFO* 」
 │ • Pengguna :  %name 
@@ -198,11 +198,11 @@ await conn.send2ButtonImg(m.chat, await (await fetch('https://hadi-api.herok
       contextInfo: { //forwardingScore: 99999, isForwarded: true,  
           externalAdReply: {  showAdAttribution: true, 
               title: 'Bot Wahatsapp Multi Device',  
-              body: '© TioXd', 
-              description: 'Made With ❤️ TioXd', 
+              body: '© Leonder', 
+              description: 'Made With ❤️ Leonder', 
               mediaType: 2,  
             thumbnail: await (await fetch('https://telegra.ph/file/00faf159ce0349901eaf3.jpg')).buffer(), 
-           mediaUrl: `https://www.facebook.com/tio.permana.50999` 
+           mediaUrl: `https://www.facebook.com/divmass` 
           }  
        }  
       })
